@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on 6502as (an assembler for 6502 asm) and 6502emu (an emulator for 6502, not currently public)
-- 🌱 I’m currently learning more about various languages especially c++
 - 📫 How to reach me: shoot me an email: dianya@nyaaa.jp. I'll have my PGP public key at the bottom of this README if you're into that sort of thing
 - 😄 Pronouns: she/her
 
