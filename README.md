@@ -79,6 +79,6 @@ PPQg4ZFpiA==
 =NW20
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-or as a file: [dianapub.asc](https://github.com/dianyaa/dianyaa/files/7131464/dianapub.asc.txt) (for some reason github won't let you upload .asc files)
+or as a file: [dianya.asc](https://raw.githubusercontent.com/dianyaa/dianyaa/main/dianya.asc)
 
 
